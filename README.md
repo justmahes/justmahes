@@ -1,4 +1,4 @@
-<h3 align="center">gatau mau ngapain, gabut</h3>
+<h3 align="center">Knowledge is power</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justmahes" alt="justmahes" /></a> </p>
