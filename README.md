@@ -68,10 +68,10 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://instagram.com/aintkoolkids" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="justmahes-instagram" />
   </a>
   <a href="mailto:esadharmaptr20@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="justmahes-email" />
   </a>
 </div>
 
