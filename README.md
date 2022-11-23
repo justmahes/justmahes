@@ -12,10 +12,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justmahes&show_icons=true&locale=en&layout=compact" alt="justmahes" /></p>
 
-
+![justmahes GitHub stats](https://github-readme-stats.vercel.app/api?username=justmahes&show_icons=true)
 ### Stats
-
-![justmahes  stats](https://github-readme-stats.vercel.app/api?username=justmahes&hide=contribs,prs)
 
 ![justmahesa stats](https://github-readme-stats.vercel.app/api?username=justmahes&show_icons=true&theme=radical)
 
