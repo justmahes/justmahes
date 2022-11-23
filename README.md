@@ -15,6 +15,8 @@
 
 ### Stats
 
+![justmahes  stats](https://github-readme-stats.vercel.app/api?username=justmahes&hide=contribs,prs)
+
 ![justmahesa stats](https://github-readme-stats.vercel.app/api?username=justmahes&show_icons=true&theme=radical)
 
 
