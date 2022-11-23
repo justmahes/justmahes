@@ -15,7 +15,7 @@
 
 ### Stats
 
-![justmahesa stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![justmahesa stats](https://github-readme-stats.vercel.app/api?username=justmahes&show_icons=true&theme=radical)
 
 
 ![Visitor](https://komarev.com/ghpvc/?username=justmahes&style=for-the-badge)
