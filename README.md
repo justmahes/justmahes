@@ -85,4 +85,4 @@
 ![Steam](https://img.shields.io/badge/Steam-yasha-%231b2838?style=for-the-badge&logo=steam)
 
 
- <h2 align="center">> JustMahes 2022</h2>
+ > JustMahes 2022
