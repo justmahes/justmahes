@@ -12,9 +12,7 @@
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![justmahes GitHub stats](https://github-readme-stats.vercel.app/api?username=justmahes&hide=contribs,prs)
-![justmahesa stats](https://github-readme-stats.vercel.app/api?username=justmahes&show_icons=true&theme=radical)
+![justmahesa stats](https://github-readme-stats.vercel.app/api?username=justmahes&hide=true&theme=radical)
 
 
 ![Visitor](https://komarev.com/ghpvc/?username=justmahes&style=for-the-badge)
